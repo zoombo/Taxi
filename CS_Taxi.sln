@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Taxi", "CS_Taxi\CS_Taxi.csproj", "{2CFEE4EF-EEC2-409F-A73D-4D13B41341D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSlib", "TSlib\TSlib.csproj", "{C9DB1ED4-5B8B-4BD0-854D-DC97EB37455A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Test_TSlib", "CS_Test_TSlib\CS_Test_TSlib.csproj", "{2694A954-2F7E-448C-A7F4-4156EFC02067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFEE4EF-EEC2-409F-A73D-4D13B41341D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFEE4EF-EEC2-409F-A73D-4D13B41341D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFEE4EF-EEC2-409F-A73D-4D13B41341D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFEE4EF-EEC2-409F-A73D-4D13B41341D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DB1ED4-5B8B-4BD0-854D-DC97EB37455A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DB1ED4-5B8B-4BD0-854D-DC97EB37455A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DB1ED4-5B8B-4BD0-854D-DC97EB37455A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DB1ED4-5B8B-4BD0-854D-DC97EB37455A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2694A954-2F7E-448C-A7F4-4156EFC02067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2694A954-2F7E-448C-A7F4-4156EFC02067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2694A954-2F7E-448C-A7F4-4156EFC02067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2694A954-2F7E-448C-A7F4-4156EFC02067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

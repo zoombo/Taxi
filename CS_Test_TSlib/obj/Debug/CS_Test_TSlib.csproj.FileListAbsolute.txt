@@ -1,0 +1,17 @@
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\NLog.config
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\CS_Test_TSlib.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\CS_Test_TSlib.pdb
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\TSlib.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\NLog.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\TSlib.pdb
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projects\CS_Taxi\CS_Test_TSlib\bin\Debug\NLog.xml
+D:\Projects\CS_Taxi\CS_Test_TSlib\obj\Debug\CS_Test_TSlib.csprojResolveAssemblyReference.cache
+D:\Projects\CS_Taxi\CS_Test_TSlib\obj\Debug\CS_Test_TSlib.dll
+D:\Projects\CS_Taxi\CS_Test_TSlib\obj\Debug\CS_Test_TSlib.pdb

@@ -1,0 +1,18 @@
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\bin\Debug\TSlib.dll
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\bin\Debug\TSlib.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\bin\Debug\CS_Taxi.exe
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\bin\Debug\CS_Taxi.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\bin\Debug\CS_Taxi.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\obj\Debug\TSlib.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\obj\Debug\TSlib.dll
+C:\Users\admin\documents\visual studio 2017\Projects\CS_Taxi\TSlib\obj\Debug\TSlib.pdb
+D:\Projects\CS_Taxi\TSlib\bin\Debug\TSlib.dll
+D:\Projects\CS_Taxi\TSlib\bin\Debug\TSlib.pdb
+D:\Projects\CS_Taxi\TSlib\obj\Debug\TSlib.csprojResolveAssemblyReference.cache
+D:\Projects\CS_Taxi\TSlib\obj\Debug\TSlib.dll
+D:\Projects\CS_Taxi\TSlib\obj\Debug\TSlib.pdb
+D:\Projects\CS_Taxi\TSlib\bin\Debug\NLog.config
+D:\Projects\CS_Taxi\TSlib\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\CS_Taxi\TSlib\bin\Debug\NLog.dll
+D:\Projects\CS_Taxi\TSlib\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\CS_Taxi\TSlib\bin\Debug\NLog.xml

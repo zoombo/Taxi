@@ -1,0 +1,77 @@
+2017-06-14 12:55:01.2921|DEBUG|CS_Taxi.LoggerMaster|Program started.
+2017-06-14 12:55:06.2779|DEBUG|CS_Taxi.LoggerMaster|User cmd: stl
+2017-06-14 12:55:07.9820|DEBUG|CS_Taxi.LoggerMaster|User cmd: exit
+2017-06-14 12:55:07.9820|DEBUG|CS_Taxi.LoggerMaster|Exit.
+2017-06-14 14:56:04.9688|DEBUG|CS_Taxi.LoggerMaster|Program started.
+2017-06-14 14:56:05.0422|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void .ctor(UInt32, UInt32)
+2017-06-14 14:56:05.0422|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void LBase()
+2017-06-14 14:56:10.5760|DEBUG|CS_Taxi.LoggerMaster|User cmd: exit
+2017-06-14 14:56:10.5760|DEBUG|CS_Taxi.LoggerMaster|Exit.
+2017-06-14 14:56:10.5760|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void SBase()
+2017-06-14 14:56:15.7348|DEBUG|CS_Taxi.LoggerMaster|Program started.
+2017-06-14 14:56:15.7538|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void .ctor(UInt32, UInt32)
+2017-06-14 14:56:15.7538|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void LBase()
+2017-06-14 14:56:17.9269|DEBUG|CS_Taxi.LoggerMaster|User cmd: sa
+2017-06-14 14:56:22.7350|DEBUG|CS_Taxi.LoggerMaster|User cmd: stl
+2017-06-14 14:56:26.7432|DEBUG|CS_Taxi.LoggerMaster|User cmd: s
+2017-06-14 14:56:26.7432|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Try call: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-14 14:56:40.8795|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: CS_Taxi.Car SearchCarViaNumber(System.String)
+2017-06-14 14:56:40.8795|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Was called: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-14 14:56:42.5832|DEBUG|CS_Taxi.LoggerMaster|User cmd: scc
+2017-06-14 14:56:46.1668|DEBUG|CS_Taxi.LoggerMaster|User cmd: gs
+2017-06-14 14:56:46.1668|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: System.Collections.Generic.List`1[CS_Taxi.Car] GetBrokenCars()
+2017-06-14 14:56:46.1668|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void VeryBrokenWrekerNotification(System.Collections.Generic.IEnumerable`1[CS_Taxi.Car])
+2017-06-14 14:56:46.1668|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: System.Collections.Generic.List`1[CS_Taxi.Car] GetCarsWithoutService()
+2017-06-14 14:56:56.0789|DEBUG|CS_Taxi.LoggerMaster|User cmd: exit
+2017-06-14 14:56:56.0789|DEBUG|CS_Taxi.LoggerMaster|Exit.
+2017-06-14 14:56:56.0789|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void SBase()
+2017-06-14 17:21:45.8232|DEBUG|CS_Taxi.LoggerMaster|Program started.
+2017-06-14 17:21:45.8505|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void .ctor(UInt32, UInt32)
+2017-06-14 17:21:45.8505|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void LBase()
+2017-06-14 17:21:49.3679|DEBUG|CS_Taxi.LoggerMaster|User cmd: sa
+2017-06-14 17:23:08.3566|DEBUG|CS_Taxi.LoggerMaster|User cmd: exit
+2017-06-14 17:23:08.3566|DEBUG|CS_Taxi.LoggerMaster|Exit.
+2017-06-14 17:23:08.3566|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void SBase()
+2017-06-15 09:31:42.0246|DEBUG|CS_Taxi.LoggerMaster|Program started.
+2017-06-15 09:31:42.0477|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void .ctor(UInt32, UInt32)
+2017-06-15 09:31:42.0477|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void LBase()
+2017-06-15 09:32:26.4183|DEBUG|CS_Taxi.LoggerMaster|User cmd: exit
+2017-06-15 09:32:26.4183|DEBUG|CS_Taxi.LoggerMaster|Exit.
+2017-06-15 09:32:26.4183|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void SBase()
+2017-06-15 11:50:36.6472|DEBUG|CS_Taxi.LoggerMaster|Program started.
+2017-06-15 11:50:36.6713|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void .ctor(UInt32, UInt32)
+2017-06-15 11:50:36.6713|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void LBase()
+2017-06-15 11:50:44.9510|DEBUG|CS_Taxi.LoggerMaster|User cmd: help
+2017-06-15 11:50:44.9510|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Try call: Void help()
+2017-06-15 11:50:44.9510|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Was called: Void help()
+2017-06-15 11:50:46.8628|DEBUG|CS_Taxi.LoggerMaster|User cmd: sa
+2017-06-15 11:50:58.4469|DEBUG|CS_Taxi.LoggerMaster|User cmd: s
+2017-06-15 11:50:58.4469|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Try call: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-15 11:50:59.8475|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: CS_Taxi.Car SearchCarViaNumber(System.String)
+2017-06-15 11:50:59.8475|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Was called: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-15 11:51:01.1591|DEBUG|CS_Taxi.LoggerMaster|User cmd: scc
+2017-06-15 11:51:02.7431|DEBUG|CS_Taxi.LoggerMaster|User cmd: h
+2017-06-15 11:51:02.7431|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Try call: Void help()
+2017-06-15 11:51:02.7431|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Was called: Void help()
+2017-06-15 11:51:07.5665|DEBUG|CS_Taxi.LoggerMaster|User cmd: d
+2017-06-15 11:51:07.5665|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Try call: Void DelCarViaNumber(CS_Taxi.TaxiStation)
+2017-06-15 11:51:09.2476|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Boolean DelCarViaNumber(System.String)
+2017-06-15 11:51:09.2476|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Was called: Void DelCarViaNumber(CS_Taxi.TaxiStation)
+2017-06-15 11:51:13.8875|DEBUG|CS_Taxi.LoggerMaster|User cmd: s
+2017-06-15 11:51:13.8875|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Try call: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-15 11:51:15.2466|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: CS_Taxi.Car SearchCarViaNumber(System.String)
+2017-06-15 11:51:15.2466|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Was called: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-15 11:51:17.8466|DEBUG|CS_Taxi.LoggerMaster|User cmd: exit
+2017-06-15 11:51:17.8466|DEBUG|CS_Taxi.LoggerMaster|Exit.
+2017-06-15 11:51:17.8466|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void SBase()
+2017-06-15 11:51:23.6123|DEBUG|CS_Taxi.LoggerMaster|Program started.
+2017-06-15 11:51:23.6363|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void .ctor(UInt32, UInt32)
+2017-06-15 11:51:23.6363|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void LBase()
+2017-06-15 11:51:25.4869|DEBUG|CS_Taxi.LoggerMaster|User cmd: sa
+2017-06-15 11:51:32.4789|DEBUG|CS_Taxi.LoggerMaster|User cmd: s
+2017-06-15 11:51:32.4789|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Try call: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-15 11:51:33.2077|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: CS_Taxi.Car SearchCarViaNumber(System.String)
+2017-06-15 11:51:33.2077|DEBUG|CS_Taxi.LoggerMaster|In class: Program : Was called: Void SearchCarViaNumber(CS_Taxi.TaxiStation, CS_Taxi.Car ByRef)
+2017-06-15 11:51:35.8227|DEBUG|CS_Taxi.LoggerMaster|User cmd: exit
+2017-06-15 11:51:35.8227|DEBUG|CS_Taxi.LoggerMaster|Exit.
+2017-06-15 11:51:35.8227|DEBUG|CS_Taxi.LoggerMaster|In class: TaxiStation : Try call: Void SBase()
